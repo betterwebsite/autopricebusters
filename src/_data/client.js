@@ -1,8 +1,8 @@
 module.exports = {
-    "name": "Code Stitch Web Designs",
-    "email": "help@codestitch.app",
-    "phoneForTel": "555-779-4407",
-    "phoneFormatted": "(555) 779-4407",
+    "name": "Auto Busters, Inc. | Home | San Antonio, TX",
+    "email": "info@cautoapb.com",
+    "phoneForTel": "210-274-1751",
+    "phoneFormatted": "(210) 274-1751",
     "address": {
         "lineOne": "First Address Line",
         "lineTwo": "Second Address Line",
